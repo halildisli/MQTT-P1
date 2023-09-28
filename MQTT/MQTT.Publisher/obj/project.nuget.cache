@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WuDXxxgqzO+yJP9Tf8bjAytOEIlQsbUOMHR0GbbDiUVCygNzTsUjwfJIh0Ly8FghqhmTs9opl6JnoIPCo/kAxg==",
+  "success": true,
+  "projectFilePath": "D:\\GitHubProjects\\MQTT-P1\\MQTT\\MQTT.Publisher\\MQTT.Publisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\halil\\.nuget\\packages\\mqttnet\\3.0.15\\mqttnet.3.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

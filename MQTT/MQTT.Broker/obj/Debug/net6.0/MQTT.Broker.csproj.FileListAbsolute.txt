@@ -1,0 +1,17 @@
+D:\GitHubProjects\MQTT-P1\MQTT\MQTT.Broker\bin\Debug\net6.0\MQTT.Broker.exe
+D:\GitHubProjects\MQTT-P1\MQTT\MQTT.Broker\bin\Debug\net6.0\MQTT.Broker.deps.json
+D:\GitHubProjects\MQTT-P1\MQTT\MQTT.Broker\bin\Debug\net6.0\MQTT.Broker.runtimeconfig.json
+D:\GitHubProjects\MQTT-P1\MQTT\MQTT.Broker\bin\Debug\net6.0\MQTT.Broker.dll
+D:\GitHubProjects\MQTT-P1\MQTT\MQTT.Broker\bin\Debug\net6.0\MQTT.Broker.pdb
+D:\GitHubProjects\MQTT-P1\MQTT\MQTT.Broker\bin\Debug\net6.0\MQTTnet.dll
+D:\GitHubProjects\MQTT-P1\MQTT\MQTT.Broker\obj\Debug\net6.0\MQTT.Broker.csproj.AssemblyReference.cache
+D:\GitHubProjects\MQTT-P1\MQTT\MQTT.Broker\obj\Debug\net6.0\MQTT.Broker.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHubProjects\MQTT-P1\MQTT\MQTT.Broker\obj\Debug\net6.0\MQTT.Broker.AssemblyInfoInputs.cache
+D:\GitHubProjects\MQTT-P1\MQTT\MQTT.Broker\obj\Debug\net6.0\MQTT.Broker.AssemblyInfo.cs
+D:\GitHubProjects\MQTT-P1\MQTT\MQTT.Broker\obj\Debug\net6.0\MQTT.Broker.csproj.CoreCompileInputs.cache
+D:\GitHubProjects\MQTT-P1\MQTT\MQTT.Broker\obj\Debug\net6.0\MQTT.Broker.csproj.CopyComplete
+D:\GitHubProjects\MQTT-P1\MQTT\MQTT.Broker\obj\Debug\net6.0\MQTT.Broker.dll
+D:\GitHubProjects\MQTT-P1\MQTT\MQTT.Broker\obj\Debug\net6.0\refint\MQTT.Broker.dll
+D:\GitHubProjects\MQTT-P1\MQTT\MQTT.Broker\obj\Debug\net6.0\MQTT.Broker.pdb
+D:\GitHubProjects\MQTT-P1\MQTT\MQTT.Broker\obj\Debug\net6.0\MQTT.Broker.genruntimeconfig.cache
+D:\GitHubProjects\MQTT-P1\MQTT\MQTT.Broker\obj\Debug\net6.0\ref\MQTT.Broker.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8HccHV/Ng7oqoZ/xGJN34YLOh7t6RIF184elwREshUKI2SmUznu9L6Jx76pGhS2ZsyLbQkrMYU3+5JyOnPWcNA==",
+  "success": true,
+  "projectFilePath": "D:\\GitHubProjects\\MQTT-P1\\MQTT\\MQTT.Broker\\MQTT.Broker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\halil\\.nuget\\packages\\mqttnet\\3.0.15\\mqttnet.3.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

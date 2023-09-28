@@ -1,0 +1,17 @@
+D:\GitHubProjects\MQTT-P1\MQTT\MQTT.Subscriber\bin\Debug\net6.0\MQTT.Subscriber.exe
+D:\GitHubProjects\MQTT-P1\MQTT\MQTT.Subscriber\bin\Debug\net6.0\MQTT.Subscriber.deps.json
+D:\GitHubProjects\MQTT-P1\MQTT\MQTT.Subscriber\bin\Debug\net6.0\MQTT.Subscriber.runtimeconfig.json
+D:\GitHubProjects\MQTT-P1\MQTT\MQTT.Subscriber\bin\Debug\net6.0\MQTT.Subscriber.dll
+D:\GitHubProjects\MQTT-P1\MQTT\MQTT.Subscriber\bin\Debug\net6.0\MQTT.Subscriber.pdb
+D:\GitHubProjects\MQTT-P1\MQTT\MQTT.Subscriber\bin\Debug\net6.0\MQTTnet.dll
+D:\GitHubProjects\MQTT-P1\MQTT\MQTT.Subscriber\obj\Debug\net6.0\MQTT.Subscriber.csproj.AssemblyReference.cache
+D:\GitHubProjects\MQTT-P1\MQTT\MQTT.Subscriber\obj\Debug\net6.0\MQTT.Subscriber.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHubProjects\MQTT-P1\MQTT\MQTT.Subscriber\obj\Debug\net6.0\MQTT.Subscriber.AssemblyInfoInputs.cache
+D:\GitHubProjects\MQTT-P1\MQTT\MQTT.Subscriber\obj\Debug\net6.0\MQTT.Subscriber.AssemblyInfo.cs
+D:\GitHubProjects\MQTT-P1\MQTT\MQTT.Subscriber\obj\Debug\net6.0\MQTT.Subscriber.csproj.CoreCompileInputs.cache
+D:\GitHubProjects\MQTT-P1\MQTT\MQTT.Subscriber\obj\Debug\net6.0\MQTT.Subscriber.csproj.CopyComplete
+D:\GitHubProjects\MQTT-P1\MQTT\MQTT.Subscriber\obj\Debug\net6.0\MQTT.Subscriber.dll
+D:\GitHubProjects\MQTT-P1\MQTT\MQTT.Subscriber\obj\Debug\net6.0\refint\MQTT.Subscriber.dll
+D:\GitHubProjects\MQTT-P1\MQTT\MQTT.Subscriber\obj\Debug\net6.0\MQTT.Subscriber.pdb
+D:\GitHubProjects\MQTT-P1\MQTT\MQTT.Subscriber\obj\Debug\net6.0\MQTT.Subscriber.genruntimeconfig.cache
+D:\GitHubProjects\MQTT-P1\MQTT\MQTT.Subscriber\obj\Debug\net6.0\ref\MQTT.Subscriber.dll
